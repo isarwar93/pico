@@ -3136,11 +3136,15 @@ CMakeFiles/blinker.dir/blinker.c.obj: D:/6.Incoretex_job/13.Pico_serial_bootLoad
   C:/VSARM/armgcc/10\ 2021.10/arm-none-eabi/include/stdlib.h \
   C:/VSARM/armgcc/10\ 2021.10/arm-none-eabi/include/machine/stdlib.h \
   C:/VSARM/armgcc/10\ 2021.10/arm-none-eabi/include/alloca.h \
+  C:/VSARM/armgcc/10\ 2021.10/arm-none-eabi/include/string.h \
+  C:/VSARM/armgcc/10\ 2021.10/arm-none-eabi/include/sys/_locale.h \
+  C:/VSARM/armgcc/10\ 2021.10/arm-none-eabi/include/strings.h \
+  C:/VSARM/armgcc/10\ 2021.10/arm-none-eabi/include/sys/string.h \
+  C:/VSARM/armgcc/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
   C:/VSARM/pico-sdk/src/common/pico_stdlib/include/pico/stdlib.h \
   C:/VSARM/pico-sdk/src/common/pico_base/include/pico.h \
   C:/VSARM/pico-sdk/src/common/pico_base/include/pico/types.h \
   C:/VSARM/pico-sdk/src/common/pico_base/include/pico/assert.h \
-  C:/VSARM/armgcc/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
   C:/VSARM/armgcc/10\ 2021.10/arm-none-eabi/include/assert.h \
   C:/VSARM/armgcc/10\ 2021.10/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h \
   C:/VSARM/armgcc/10\ 2021.10/arm-none-eabi/include/stdint.h \
@@ -3177,17 +3181,13 @@ CMakeFiles/blinker.dir/blinker.c.obj: D:/6.Incoretex_job/13.Pico_serial_bootLoad
   C:/VSARM/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/uart.h \
   C:/VSARM/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/dreq.h \
   C:/VSARM/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb.h \
-  C:/VSARM/armgcc/10\ 2021.10/arm-none-eabi/include/string.h \
-  C:/VSARM/armgcc/10\ 2021.10/arm-none-eabi/include/sys/_locale.h \
-  C:/VSARM/armgcc/10\ 2021.10/arm-none-eabi/include/strings.h \
-  C:/VSARM/armgcc/10\ 2021.10/arm-none-eabi/include/sys/string.h \
-  C:/VSARM/pico-sdk/src/rp2_common/hardware_adc/include/hardware/adc.h \
-  C:/VSARM/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/adc.h \
-  C:/VSARM/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/adc.h \
   C:/VSARM/pico-sdk/src/common/pico_binary_info/include/pico/binary_info.h \
   C:/VSARM/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/defs.h \
   C:/VSARM/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/structure.h \
   C:/VSARM/pico-sdk/src/common/pico_binary_info/include/pico/binary_info/code.h \
+  C:/VSARM/pico-sdk/src/rp2_common/hardware_adc/include/hardware/adc.h \
+  C:/VSARM/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/adc.h \
+  C:/VSARM/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/adc.h \
   C:/VSARM/pico-sdk/src/rp2_common/hardware_spi/include/hardware/spi.h \
   C:/VSARM/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/spi.h \
   C:/VSARM/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/spi.h \
